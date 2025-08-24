@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank loans related qa APIs "
+  message: "Welcome to EazyBank loans related local APIs from QA "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@eazybank.com"
