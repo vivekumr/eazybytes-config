@@ -6,7 +6,7 @@ spring:
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs from Production "
+  message: "Welcome to EazyBank accounts related local APIs from Prod "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
