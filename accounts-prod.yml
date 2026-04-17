@@ -4,7 +4,7 @@ spring:
       on-profile: "prod"
 
 build:
-  version: "5.0"
+  version: "2.0"
 accounts:
   message: "Welcome to EazyBank accounts related local APIs from Production "
   contactDetails:
