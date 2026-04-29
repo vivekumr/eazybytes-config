@@ -6,7 +6,7 @@ spring:
 build:
   version: "6.0"
 accounts:
-  message: "Welcome to EazyBank accounts related local from Q A "
+  message: "Welcome to EazyBank accounts related local from QA Using Spring cloud bus "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
